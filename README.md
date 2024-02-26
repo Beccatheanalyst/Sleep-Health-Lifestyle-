@@ -3,7 +3,7 @@ The Sleep Health and Lifestyle Dataset comprises Datasets covering a wide range 
 
 ## Project Overview
 
-This project aims to aim to uncover links between sleep quality, health metrics, and lifestyle factors. Through analysis, we seek insights to enhance understanding and promote better sleep habits for improved health outcomes.
+This project aims to uncover links between sleep quality, health metrics, and lifestyle factors. Through analysis, we seek insights to enhance understanding and promote better sleep habits for improved health outcomes.
 
 ### Data Sources 
 
