@@ -33,7 +33,12 @@ EDA involved exploing the Dataset to answer key questions like;
 
 ### Data Analysis 
 
-### Results/Finding 
+``Excel
+
+=IF(AND([@Age]>=27, [@Age]<38), "Adult", IF(AND([@Age]>=38, [@Age]<49),"Middle age", IF(AND([@Age]>=49, [@Age]<60), "Old")))
+
+### Results/Finding
+
 1. The "Old" category experiences higher quality of sleep.
 2. The "Overweight" category exhibits the highest physical activity level.
 3. The "Adult" category demonstrates the highest stress level.
